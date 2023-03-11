@@ -1,8 +1,9 @@
-| Argomento                                                                              |          Data          | Mind Map                                                                 |
-| -------------------------------------------------------------------------------------- |:----------------------:| ------------------------------------------------------------------------ |
-| [Le origini della letteratura italiana](Le%20origini%20della%20letteratura%20italiana) |       600-1300?        | [Link](Le%20origini%20della%20letteratura%20italiana/Mind%20Map%201.png) |
-| [Dante Alighieri](Dante%20Alighieri)                                                     |       1265-1320        |                                                 |
-| [[Francesco Petrarca]]                                                                 |       1304-1374        |                                                                          |
-| [[Giovanni Boccaccio]]                                                                 |       1313-1375        |                                                                          |
-| [[L'Umanesimo, Machiavelli e Guicciardini]]                                            | fine 1300 - 1550 circa |    [Link](Mind%20Map%202.png)                                                                             |
+| Argomento                                                                                                                                 |          Data          | Mind Map                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------- |:----------------------:| ------------------------------------------------------------------------ |
+| [Le origini della letteratura italiana](Le%20origini%20della%20letteratura%20italiana/Le%20origini%20della%20letteratura%20italiana.md)   |       600-1300?        | [Link](Le%20origini%20della%20letteratura%20italiana/Mind%20Map%201.png) |
+| [Dante Alighieri](Dante%20Alighieri/Dante%20Alighieri.md)                                                                                 |       1265-1320        |                                                                          |
+| [Francesco Petrarca](Francesco%20Petrarca/Francesco%20Petrarca.md)                                                                        |       1304-1374        |                                                                          |
+| [Giovanni Boccaccio](Giovanni%20Boccaccio/Giovanni%20Boccaccio.md)                                                                        |       1313-1375        |                                                                          |
+| [L'Umanesimo, Machiavelli e Guicciardini](L'Umanesimo,%20Machiavelli%20e%20Guicciardini/L'Umanesimo,%20Machiavelli%20e%20Guicciardini.md) | fine 1300 - 1550 circa | [Link](L'Umanesimo,%20Machiavelli%20e%20Guicciardini/Mind%20Map%202.png) |
+|                                                                                                                                           |                        |                                                                          |
 
