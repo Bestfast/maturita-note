@@ -1,4 +1,4 @@
-	# Germania
+# Germania
 * Unificazione della Germania nel 1870
 	* La Germania vuole diventare leader mondiale, insidiando l'Inghilterra e diventando la prima potenza al mondo 
 * Alleanza nel 1882 si forma la triplice alleanza
