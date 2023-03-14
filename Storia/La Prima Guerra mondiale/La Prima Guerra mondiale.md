@@ -32,7 +32,7 @@
 		* include i socialisti internazionalisti, dato che volevano una guerra tra classi e non tra nazioni 
 	* interventisti -> quelli che suggeriscono di intervenire in guerra, in quanto in caso di vittoria poteva esserci un bottino non da meno (ricchezze, terreni)
 		* include i socialisti nazionalisti, capeggiati da Benito Mussolini 
-			* vengono espulsi dal partito in quanto la minoranza, lo stesso vale per Mussolini nonostante fosse a capo del giornale socialista (viene superato da Gabriele d'Annunzio??), perché contrario alla linea maggioritaria 
+			* vengono espulsi dal partito in quanto la minoranza, lo stesso vale per Mussolini, nonostante fosse a capo del giornale socialista L'Avanti, perché contrario alla linea maggioritaria 
 		* Industriali
 		* Il Re
 * Il 26 Aprile 1915 l'Italia firma il patto di Londra, nel quale l'Inghilterra chiede all'Italia di entrare in guerra
