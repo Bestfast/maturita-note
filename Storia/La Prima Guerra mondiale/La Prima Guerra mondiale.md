@@ -4,14 +4,14 @@
 		* una dice che sono collegate e segue lo stesso conflitto
 		* l'altra dice che la Seconda Guerra mondiale non è collegata alla prima
 	* nel mezzo sta la crisi di wall street che segna e, insieme ad altri fattori, provocherà la seconda guerra mondiale
-* La Germania vuole diventare la prima potenza al mondo, come già visto nel [L'età giolittiana](Storia/L'et%C3%A0%20giolittiana/L'et%C3%A0%20giolittiana.md) 
+* La Germania vuole diventare la prima potenza al mondo, come già visto nel [L'età giolittiana](../L'et%C3%A0%20giolittiana/L'et%C3%A0%20giolittiana.md) 
 * Vendetta Francese; nel 1870, "sconfitta di Sedan"
 	* la Francia rischia l'invasione dai tedeschi
 	* nazionalisti francesi incazzati e cercano in ogni modo di vendicarsi nei confronti dei tedeschi -> si rivedrà coi trattati di pace
 * Impero Ottomano
 	* assoluto disfacimento
 	* faceva gola a tutti, sopratutto alla Russia visto che non aveva nulla nel mar mediterraneo
-* Alleanze difensive come visto in [L'età giolittiana](Storia/L'et%C3%A0%20giolittiana/L'et%C3%A0%20giolittiana.md) 
+* Alleanze difensive come visto in [L'età giolittiana](../L'et%C3%A0%20giolittiana/L'et%C3%A0%20giolittiana.md) 
 * 28 Giugno 1914, uno studente serbo uccide l'erede al trono d'Austria
 	* Ultimatum dall'imperatore Austriaco: se in 48 ore non viene consegnato l'attentatore e sciogliete tutte le organizzazioni per l'indipendenza, attacchiamo 
 		* La Serbia in quel periodo ha fatto un'alleanza difensiva segreta con la Russia 

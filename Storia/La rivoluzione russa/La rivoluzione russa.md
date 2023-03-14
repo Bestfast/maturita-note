@@ -13,7 +13,7 @@
 	* soviet = consiglio in russo
 	* gli operai prendono controllo delle fabbriche, facendo dei veri e proprio consigli/parlamenti ignorando la borghesia al potere
 # 1917
-* la Russia stava combattendo [[La Prima Guerra mondiale]] 
+* la Russia stava combattendo [La Prima Guerra mondiale](../La%20Prima%20Guerra%20mondiale/La%20Prima%20Guerra%20mondiale.md) 
 * Febbraio, gli abitanti, operai etc di San Pietroburgo occupano le fabbriche e decidono di scioperare
 	* ricompaiono i Soviet 
 	* lo Zar ordina all'esercito di mettere fine a questi scioperi etc con la forza, ma l'esercito decide di andare contro lo Zar
